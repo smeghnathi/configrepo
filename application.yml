@@ -1,0 +1,10 @@
+my:
+  greetings: Hello World from config file locatied in www.github.com!
+  list:
+    values: one,two,three,four,five,six
+
+
+db:
+  connection: connection-string-from-config-server-github
+  host: www.gitgub.com
+  port: 1234
